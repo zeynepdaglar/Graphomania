@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\BusinessLayer.dll.config

@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout ="~/Views/Shared/_AdminLayout.cshtml";
+}
+<!--
+tr -> table row(tablo satırı)
+th -> table head(tablo başlığı), kalın punto ile yazılır.
+td -> table data(tablo verileri), ince yazılır.
+-->
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+<h3>Kategory Tablosu</h3>
+<!--table-bordered -> kenarlıklı tablo olmasını sağlar
+    table-hovered -> ortadaki çizgiler kalkar-->
+<table class="table table-hover">
+    <tr>
+        <!--Satır-->
+        <th>ID</th> <!--Başlık-->
+        <th>Kategory Adı</th>
+        <th>Kategory Açıklaması</th>
+        <th>Durum</th>
+        <th>Güncelle</th>
+
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>Eğitim</td>
+        <td>Açıklama Kısmı</td>
+        <td>True</td>
+        <td><button class="btn btn-success">Güncelle</button></td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>Spor</td>
+        <td>Açıklama Kısmı</td>
+        <td>True</td>
+    </tr>
+</table>
+<button class="btn btn-info">Yeni Kategori</button>
+<button class="btn btn-warning">Kategori Listesi</button>
+<button class="btn btn-danger">Kategori Açıklamaları</button>

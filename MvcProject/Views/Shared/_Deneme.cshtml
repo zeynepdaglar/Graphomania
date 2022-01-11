@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+/*       layout içinde renderbody metodunu çağırmalıyız
+         layout içerisinde sabit kalan kısımlar olucak
+         renderbody içerinde ise değişken bir kısım var ve sayfanın hangi kısmında gözükmesini istiyorsak oraya yazmalıyız
+         sayfalar yuklenirken layoutın hangi kısmına yükleniceğini renderboy ile belirtiriz
+
+         Razor Syntax:
+         html kodları içerisinde c# kodları kullanabilmemizi sağlar
+         bu kodları et işareti ve süslü parantezler arasına yazarız*/
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Deneme</title>
+</head>
+<body>
+    
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

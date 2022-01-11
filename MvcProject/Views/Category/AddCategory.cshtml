@@ -1,0 +1,41 @@
+﻿@model EntityLayer.Concrete.Category
+
+
+@{
+    Layout = null;
+}
+<!--
+  method: form tagı içerisindeki ifadeler ne zaman çalışsın onu belirtiyoruz, sayfada bir post işlemi olduğunda çalışıcak
+  placeholder: koyduğumuz input un içinde silik olarak gözükür, oraya ne girilmesi gerektiğiyle ilgili bilgi verebilir
+  form-control: input kutusunun tipi değiştirdi, uzun yaptı
+  name: burada ekleme işleminin nereye yapılacağını belirtmemiz gerekli
+
+    input yerine texboxfor kullanılmalı
+    html. -> html helper
+  -->
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<h1>Yeni Kategory Ekleme Sayfası</h1>
+@using (Html.BeginForm("AddCategory", "Category", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.Label("Kategori Adı")
+        @Html.TextBoxFor(x=>x.CategoryName)
+        @Html.ValidationMessageFor(x=>x.CategoryName)
+        <br /> <br />
+        @Html.Label("Açıklamayı yazınız")
+        @Html.TextAreaFor(x=>x.CategoryDescription)
+        @Html.ValidationMessageFor(x=>x.CategoryDescription)
+        <br /> <br />
+        <button class="btn btn-info">Kaydet</button>
+
+    </div>
+}
+
+
+
+@*<form class="form-group" method="post">
+        <input type="text" placeholder="Kategori Adı" name="CategoryName" class="form-control" />
+        <br />
+        <input type="text" placeholder="Açıklama Giriniz" name="CategoryDescription" class="form-control" />
+        <button class="btn btn-primary">Ekle</button>
+    </form>*@

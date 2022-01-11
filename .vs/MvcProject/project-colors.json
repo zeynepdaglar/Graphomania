@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05039842-1ff6-4e2c-b541-585835858bd4": {
+      "ProjectGuid": "05039842-1ff6-4e2c-b541-585835858bd4",
+      "DisplayName": "MvcProject",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
