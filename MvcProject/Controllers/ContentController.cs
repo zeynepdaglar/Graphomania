@@ -13,7 +13,7 @@ namespace MvcProject.Controllers
 
     public class ContentController : Controller
     {
-        ContentManager contentManager = new ContentManager(new EFContentDAL());
+        AdminManager contentManager = new AdminManager(new EFAdminDAL());
        
         // GET: Content
         public ActionResult Index()

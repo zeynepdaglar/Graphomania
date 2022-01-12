@@ -27,3 +27,21 @@ C:\Users\admin\source\repos\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer
 C:\Users\admin\source\repos\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.imagefileclass.resources
 C:\Users\admin\source\repos\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.adminclass.resources
 C:\Users\admin\source\repos\MvcProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.m000.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.m001.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.m1.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.writeredit.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.writertitle.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.writerimagesize.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.writerstatus.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.contentstatus.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.headingstatus.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.messageclass.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.contactdate.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.imagefileclass.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.adminclass.resources
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\projects repos\Graphomania\Graphomania\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -12,7 +12,7 @@ namespace MvcProject.Controllers
     public class DefaultController : Controller
     {
         HeadingManager headingManager = new HeadingManager(new EFHeadingDAL());
-        ContentManager contentManager = new ContentManager(new EFContentDAL());
+        AdminManager contentManager = new AdminManager(new EFAdminDAL());
         // projenin ana sayfası olucak
 
         public ActionResult Headings()

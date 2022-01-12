@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Concrete
 {
-    public class ContentManager : IContentServices
+    public class AdminManager : IAdminServices
     {
         IContentDAL _contentDAL;
 
-        public ContentManager(IContentDAL contentDAL)
+        public AdminManager(IContentDAL contentDAL)
         {
             _contentDAL = contentDAL;
         }

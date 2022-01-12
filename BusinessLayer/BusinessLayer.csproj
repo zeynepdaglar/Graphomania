@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\IAboutServices.cs" />
+    <Compile Include="Abstract\IAdminServices.cs" />
     <Compile Include="Abstract\ICategoryService.cs" />
     <Compile Include="Abstract\IContactServices.cs" />
     <Compile Include="Abstract\IContentServices.cs" />
@@ -57,6 +58,7 @@
     <Compile Include="Abstract\IWriterLoginServices.cs" />
     <Compile Include="Abstract\IWriterServices.cs" />
     <Compile Include="Concrete\AboutManager.cs" />
+    <Compile Include="Concrete\AdminManager.cs" />
     <Compile Include="Concrete\CategoryManager.cs" />
     <Compile Include="Concrete\ContactManager.cs" />
     <Compile Include="Concrete\ContentManager.cs" />

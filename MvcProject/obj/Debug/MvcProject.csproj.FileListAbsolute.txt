@@ -95,3 +95,7 @@ C:\Users\admin\source\repos\MvcProject\MvcProject\bin\PagedList.dll
 C:\Users\admin\source\repos\MvcProject\MvcProject\bin\PagedList.Mvc.dll
 C:\Users\admin\source\repos\MvcProject\MvcProject\bin\PagedList.xml
 C:\Users\admin\source\repos\MvcProject\MvcProject\bin\PagedList.Mvc.xml
+C:\projects repos\Graphomania\Graphomania\MvcProject\obj\Debug\MvcProject.csproj.AssemblyReference.cache
+C:\projects repos\Graphomania\Graphomania\MvcProject\obj\Debug\MvcProject.csproj.CoreCompileInputs.cache
+C:\projects repos\Graphomania\Graphomania\MvcProject\obj\Debug\MvcProject.dll
+C:\projects repos\Graphomania\Graphomania\MvcProject\obj\Debug\MvcProject.pdb

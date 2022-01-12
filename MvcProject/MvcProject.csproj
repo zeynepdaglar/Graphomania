@@ -2648,11 +2648,11 @@
     <Content Include="Views\Content\GetAllContent.cshtml" />
     <Content Include="Views\Heading\HeadingReport.cshtml" />
     <Content Include="Views\Test\SweetAlert.cshtml" />
+    <Content Include="Views\Authorization\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\Authorization\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

@@ -15,3 +15,7 @@ C:\Users\admin\source\repos\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.csp
 C:\Users\admin\source\repos\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\admin\source\repos\MvcProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
 C:\Users\admin\source\repos\MvcProject\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\projects repos\Graphomania\Graphomania\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\projects repos\Graphomania\Graphomania\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\projects repos\Graphomania\Graphomania\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\projects repos\Graphomania\Graphomania\BusinessLayer\obj\Debug\BusinessLayer.pdb

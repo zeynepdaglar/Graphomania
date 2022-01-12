@@ -13,7 +13,7 @@ namespace MvcProject.Controllers
     [AllowAnonymous] //TODO: giriş yapmayı çözünce sil
     public class WriterPanelContentController : Controller
     {
-        ContentManager contentManager = new ContentManager(new EFContentDAL());
+        AdminManager contentManager = new AdminManager(new EFAdminDAL());
         Context context = new Context();
         // GET: WriterPanelContent
         public ActionResult MyContent(string p)

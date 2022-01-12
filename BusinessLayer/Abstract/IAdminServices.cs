@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EntityLayer.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,13 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Abstract
 {
-    interface IAdminServices
+    public interface IAdminServices
     {
+        List<Admin> GetList();
+        void AdminAddBL(Admin admin);
+        Category GetByID(int id);
+
+        void AdminDelete(Admin admin);
+        void AdminUpdate(Admin admin);
     }
 }
