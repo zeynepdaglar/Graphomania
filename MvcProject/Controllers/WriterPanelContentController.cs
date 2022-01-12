@@ -10,7 +10,6 @@ using System.Web.Mvc;
 
 namespace MvcProject.Controllers
 {
-    [AllowAnonymous] //TODO: giriş yapmayı çözünce sil
     public class WriterPanelContentController : Controller
     {
         AdminManager contentManager = new AdminManager(new EFAdminDAL());

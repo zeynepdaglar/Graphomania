@@ -2355,7 +2355,7 @@
     <Content Include="Mvc Proje Tema\AdminLTE-3.0.4\plugins\sweetalert2-theme-bootstrap-4\bootstrap-4.scss" />
     <Content Include="Mvc Proje Tema\AdminLTE-3.0.4\plugins\toastr\toastr.js.map" />
     <Content Include="Mvc Proje Tema\AdminLTE-3.0.4\README.md" />
-    <Content Include="Mvc Proje Tema\SonHali-main\Ders34_SonHali-main\kodlar" />
+    <Content Include="Mvc Proje Tema\SonHali-main\SonHali-main\kodlar" />
     <Content Include="Mvc Proje Tema\__MACOSX\._colorlib-error-404-10" />
     <Content Include="Mvc Proje Tema\__MACOSX\colorlib-error-404-10\._css" />
     <Content Include="Mvc Proje Tema\__MACOSX\colorlib-error-404-10\._img" />

@@ -14,7 +14,7 @@ using BusinessLayer.ValidationRules;
 
 namespace MvcProject.Controllers
 {
-    [AllowAnonymous] //TODO: sisteme giriş yapmayı çözdükten sonra bunu sil
+    
     public class WriterPanelController : Controller
     {
         HeadingManager headingManager = new HeadingManager(new EFHeadingDAL());
