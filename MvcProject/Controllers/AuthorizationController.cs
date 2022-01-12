@@ -28,7 +28,7 @@ namespace MvcProject.Controllers
         [HttpPost]
         public ActionResult AddAdmin(Admin parameter)
         {
-            adminManager.AdminAddBL(parameter);
+            adminManager.AdminAdd(parameter);
             return View("Index");
         }
     }

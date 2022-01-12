@@ -18,9 +18,9 @@ namespace BusinessLayer.Concrete
             this._adminDAL = adminDAL;
         }
 
-        public void AdminAddBL(Admin admin)
+        public void AdminAdd(Admin admin)
         {
-            throw new NotImplementedException();
+            _adminDAL.Insert(admin);
         }
 
         public void AdminDelete(Admin admin)

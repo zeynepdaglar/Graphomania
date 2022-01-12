@@ -24,9 +24,9 @@
             <td>@item.AdminUsername</td>
             <td>@item.AdminRole</td>
             <td>Aktif</td>
-            <td><a href="/@item.AdminId" class="btn btn-danger">Pasif</a></td>
-            <td><a href="/@item.AdminId" class="btn btn-danger">Yetkisini Değiştir</a></td>
+            <td><a href="/AdminCategory/DeleteCategory/@item.AdminId" class="btn btn-danger">Pasif</a></td>
+            <td><a href="/AdminCategory/EditCategory/@item.AdminId" class="btn btn-danger">Yetkisini Değiştir</a></td>
         </tr>
     }
 </table>
-<a href="" class="btn btn-info">Yeni Admin Tanımla</a>
+<a href="Authorization/AddAdmin" class="btn btn-info">Yeni Admin Tanımla</a>
